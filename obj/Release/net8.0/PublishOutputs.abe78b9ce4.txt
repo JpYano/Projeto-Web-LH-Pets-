@@ -1,0 +1,13 @@
+C:\Users\João (sesi)\Desktop\projeto web-lh pets\bin\Release\net8.0\publish\projeto web-lh pets.exe
+C:\Users\João (sesi)\Desktop\projeto web-lh pets\bin\Release\net8.0\publish\appsettings.Development.json
+C:\Users\João (sesi)\Desktop\projeto web-lh pets\bin\Release\net8.0\publish\appsettings.json
+C:\Users\João (sesi)\Desktop\projeto web-lh pets\bin\Release\net8.0\publish\projeto web-lh pets.dll
+C:\Users\João (sesi)\Desktop\projeto web-lh pets\bin\Release\net8.0\publish\projeto web-lh pets.deps.json
+C:\Users\João (sesi)\Desktop\projeto web-lh pets\bin\Release\net8.0\publish\projeto web-lh pets.runtimeconfig.json
+C:\Users\João (sesi)\Desktop\projeto web-lh pets\bin\Release\net8.0\publish\projeto web-lh pets.pdb
+C:\Users\João (sesi)\Desktop\projeto web-lh pets\bin\Release\net8.0\publish\System.Data.SqlClient.dll
+C:\Users\João (sesi)\Desktop\projeto web-lh pets\bin\Release\net8.0\publish\runtimes\win-arm64\native\sni.dll
+C:\Users\João (sesi)\Desktop\projeto web-lh pets\bin\Release\net8.0\publish\runtimes\win-x64\native\sni.dll
+C:\Users\João (sesi)\Desktop\projeto web-lh pets\bin\Release\net8.0\publish\runtimes\win-x86\native\sni.dll
+C:\Users\João (sesi)\Desktop\projeto web-lh pets\bin\Release\net8.0\publish\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\João (sesi)\Desktop\projeto web-lh pets\bin\Release\net8.0\publish\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll

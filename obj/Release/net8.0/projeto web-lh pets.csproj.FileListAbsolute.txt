@@ -1,0 +1,34 @@
+C:\Users\João (sesi)\Desktop\projeto web-lh pets\bin\Release\net8.0\appsettings.Development.json
+C:\Users\João (sesi)\Desktop\projeto web-lh pets\bin\Release\net8.0\appsettings.json
+C:\Users\João (sesi)\Desktop\projeto web-lh pets\bin\Release\net8.0\projeto web-lh pets.staticwebassets.runtime.json
+C:\Users\João (sesi)\Desktop\projeto web-lh pets\bin\Release\net8.0\projeto web-lh pets.exe
+C:\Users\João (sesi)\Desktop\projeto web-lh pets\bin\Release\net8.0\projeto web-lh pets.deps.json
+C:\Users\João (sesi)\Desktop\projeto web-lh pets\bin\Release\net8.0\projeto web-lh pets.runtimeconfig.json
+C:\Users\João (sesi)\Desktop\projeto web-lh pets\bin\Release\net8.0\projeto web-lh pets.dll
+C:\Users\João (sesi)\Desktop\projeto web-lh pets\bin\Release\net8.0\projeto web-lh pets.pdb
+C:\Users\João (sesi)\Desktop\projeto web-lh pets\bin\Release\net8.0\System.Data.SqlClient.dll
+C:\Users\João (sesi)\Desktop\projeto web-lh pets\bin\Release\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\João (sesi)\Desktop\projeto web-lh pets\bin\Release\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\João (sesi)\Desktop\projeto web-lh pets\bin\Release\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\João (sesi)\Desktop\projeto web-lh pets\bin\Release\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\João (sesi)\Desktop\projeto web-lh pets\bin\Release\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\João (sesi)\Desktop\projeto web-lh pets\obj\Release\net8.0\projeto web-lh pets.csproj.AssemblyReference.cache
+C:\Users\João (sesi)\Desktop\projeto web-lh pets\obj\Release\net8.0\projeto web-lh pets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\João (sesi)\Desktop\projeto web-lh pets\obj\Release\net8.0\projeto web-lh pets.AssemblyInfoInputs.cache
+C:\Users\João (sesi)\Desktop\projeto web-lh pets\obj\Release\net8.0\projeto web-lh pets.AssemblyInfo.cs
+C:\Users\João (sesi)\Desktop\projeto web-lh pets\obj\Release\net8.0\projeto web-lh pets.csproj.CoreCompileInputs.cache
+C:\Users\João (sesi)\Desktop\projeto web-lh pets\obj\Release\net8.0\projeto web-lh pets.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\João (sesi)\Desktop\projeto web-lh pets\obj\Release\net8.0\staticwebassets.build.json
+C:\Users\João (sesi)\Desktop\projeto web-lh pets\obj\Release\net8.0\staticwebassets.development.json
+C:\Users\João (sesi)\Desktop\projeto web-lh pets\obj\Release\net8.0\staticwebassets\msbuild.projeto web-lh pets.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\João (sesi)\Desktop\projeto web-lh pets\obj\Release\net8.0\staticwebassets\msbuild.build.projeto web-lh pets.props
+C:\Users\João (sesi)\Desktop\projeto web-lh pets\obj\Release\net8.0\staticwebassets\msbuild.buildMultiTargeting.projeto web-lh pets.props
+C:\Users\João (sesi)\Desktop\projeto web-lh pets\obj\Release\net8.0\staticwebassets\msbuild.buildTransitive.projeto web-lh pets.props
+C:\Users\João (sesi)\Desktop\projeto web-lh pets\obj\Release\net8.0\staticwebassets.pack.json
+C:\Users\João (sesi)\Desktop\projeto web-lh pets\obj\Release\net8.0\scopedcss\bundle\projeto web-lh pets.styles.css
+C:\Users\João (sesi)\Desktop\projeto web-lh pets\obj\Release\net8.0\projeto .300093CE.Up2Date
+C:\Users\João (sesi)\Desktop\projeto web-lh pets\obj\Release\net8.0\projeto web-lh pets.dll
+C:\Users\João (sesi)\Desktop\projeto web-lh pets\obj\Release\net8.0\refint\projeto web-lh pets.dll
+C:\Users\João (sesi)\Desktop\projeto web-lh pets\obj\Release\net8.0\projeto web-lh pets.pdb
+C:\Users\João (sesi)\Desktop\projeto web-lh pets\obj\Release\net8.0\projeto web-lh pets.genruntimeconfig.cache
+C:\Users\João (sesi)\Desktop\projeto web-lh pets\obj\Release\net8.0\ref\projeto web-lh pets.dll
